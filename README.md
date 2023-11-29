@@ -1,2 +1,2 @@
-# Utilities
-A collection of utilities that I use in my projects.
+# Android Support
+A library to streamline Android app-building process.

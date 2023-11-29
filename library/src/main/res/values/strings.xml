@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App Name</string>
+    <string name="app_description">App Description</string> 
+
+    <string name="okay">Okay</string>
+    <string name="cancel">Cancel</string>
+    <string name="no_app_found_to_share_file">No app found to share the file</string>
+</resources>
